@@ -56,10 +56,10 @@ Each result is printed on a separate line.
 
 ## ▶️ How to Run
 
-Paste the code into any Python environment or save it as `day1_data_types.py`. Then run:
+Paste the code into any Python environment or save it as `DAY-1-SOLUTION.py`. Then run:
 
 ```bash
-python day1_data_types.py
+python DAY-1-SOLUTION.py
 ```
 
 You will be prompted to enter the inputs one by one.
