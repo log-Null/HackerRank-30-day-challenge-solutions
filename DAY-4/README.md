@@ -1,6 +1,6 @@
 # 🚀 Day 4: Class vs Instance – HackerRank 30 Days of Code
 
-This repository contains the solution for **Day 4: Class vs Instance** from the [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) challenge on HackerRank.  
+This  contains the solution for **Day 4: Class vs Instance** from the [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) challenge on HackerRank.  
 It introduces basic **Object-Oriented Programming (OOP)** concepts using Python.
 
 ---
