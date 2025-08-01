@@ -19,4 +19,5 @@ Create a `Person` class with the following features:
 - **Method `yearPasses()`**: Increments the person's age by 1.
 
 ---
+_This is part of my **#30DaysOfCode** journey. Check out the [https://github.com/log-Null/HackerRank-30-day-challenge-solutions](./) to follow my progress._
 
