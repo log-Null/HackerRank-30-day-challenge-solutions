@@ -32,6 +32,7 @@ Given an array, print the elements in **reverse order** as a single line of spac
 - Practiced list reversal using Python slice notation (`[::-1]`).
 - Refreshed `split()` and `join()` string functions.
 - Improved confidence with input handling in coding platforms.
+  
 
 ---
 
@@ -43,3 +44,7 @@ Given an array, print the elements in **reverse order** as a single line of spac
 
 # Sample Output:
 # 2 3 4 1
+
+
+_This is part of my **#30DaysOfCode** journey. Check out the [https://github.com/log-Null/HackerRank-30-day-challenge-solutions](./) to follow my progress._
+
