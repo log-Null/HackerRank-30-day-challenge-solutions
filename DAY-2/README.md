@@ -21,5 +21,7 @@ You need to:
 2. Compute the total cost:  
    `total = meal_cost + tip + tax`
 3. Print the **rounded total cost** (nearest integer).
+   
 
 ---
+_This is part of my **#30DaysOfCode** journey. Check out the [https://github.com/log-Null/HackerRank-30-day-challenge-solutions](./) to follow my progress._
