@@ -34,3 +34,5 @@ Welcome to 30 Days of Code!
 ## 🗒️ Notes
 This is the zeroth challenge in HackerRank's 30 Days of Code.  
 It introduces basic input/output operations and sets the tone for the rest of the journey!
+_This is part of my **#30DaysOfCode** journey. Check out the [https://github.com/log-Null/HackerRank-30-day-challenge-solutions](./) to follow my progress._
+
