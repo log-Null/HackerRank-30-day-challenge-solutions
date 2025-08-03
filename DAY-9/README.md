@@ -49,17 +49,8 @@ factorial(n) = n × (n - 1) × (n - 2) × ... × 1
 
 
 ## 💡 Sample Input
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 1595f02 ( Day-9 Recursion challenge)
 5
 
-
-
-<<<<<<< HEAD
 ## ✅ Sample Output
 
 
@@ -67,10 +58,6 @@ factorial(n) = n × (n - 1) × (n - 2) × ... × 1
 120
 
 
-
-=======
->>>>>>> 1595f02 ( Day-9 Recursion challenge)
----
 
 
 
