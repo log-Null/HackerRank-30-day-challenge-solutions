@@ -1,8 +1,8 @@
-\# 🧠 HackerRank 30 Days of Code – Day 10: Binary Numbers
+# 🧠 HackerRank 30 Days of Code – Day 10: Binary Numbers
 
 
 
-\## ✅ Goal:
+## ✅ Goal:
 
 Given an integer `n`, convert it to binary and print the \*\*maximum number of consecutive 1s\*\* in the binary representation.
 
@@ -12,15 +12,15 @@ Given an integer `n`, convert it to binary and print the \*\*maximum number of c
 
 
 
-\## 🧾 Input Format:
+## 🧾 Input Format:
 
 A single integer `n`.
 
 
 
-\### 🔹 Constraints:
+### 🔹 Constraints:
 
-\- 1 ≤ n ≤ 10^6
+- 1 ≤ n ≤ 10^6
 
 
 
@@ -28,7 +28,7 @@ A single integer `n`.
 
 
 
-\## 📌 Example:
+## 📌 Example:
 
 
 
@@ -76,11 +76,11 @@ Binary: 1101 → has "11" and "1" → Max consecutive 1s = 2
 
 
 
-\## 💡 Concept Explained:
+## 💡 Concept Explained:
 
 
 
-1\. Use Python's built-in `bin()` to convert to binary:
+1. Use Python's built-in `bin()` to convert to binary:
 
 ```python
 
@@ -90,7 +90,7 @@ bin(13)  # output: '0b1101'
 
 
 
-2\. Use `\[2:]` to remove the `'0b'` prefix:
+2. Use `\[2:]` to remove the `'0b'` prefix:
 
 ```python
 
@@ -100,7 +100,7 @@ binary = bin(n)\[2:]
 
 
 
-3\. Split the binary string wherever there is a `'0'`:
+3. Split the binary string wherever there is a `'0'`:
 
 ```python
 
@@ -110,7 +110,7 @@ binary.split('0')  # gives list of 1s like \['11', '1']
 
 
 
-4\. Use `max()` on the lengths of those 1s:
+4. Use `max()` on the lengths of those 1s:
 
 ```python
 
@@ -123,28 +123,11 @@ max(len(s) for s in binary.split('0'))
 ---
 
 
-
-\## ✅ Final Code (Python):
-
-```python
-
-n = int(input())
-
-binary = bin(n)\[2:]
-
-max\_ones = max(len(s) for s in binary.split('0'))
-
-print(max\_ones)
-
-```
-
-
-
 ---
 
 
 
-\## 🧪 Test Cases:
+## 🧪 Test Cases:
 
 
 
@@ -166,7 +149,7 @@ print(max\_ones)
 
 
 
-\## ALSO:
+## ALSO:
 
 This is part of my #30DaysOfCode journey. Check out the https://github.com/log-Null/HackerRank-30-day-challenge-solutions to follow my progress.
 
