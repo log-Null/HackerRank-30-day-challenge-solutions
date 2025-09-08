@@ -2,7 +2,7 @@
 
 This repository contains my solutions to the [HackerRank-30-day-challenge-solutions](https://github.com/log-Null/HackerRank-30-day-challenge-solutions) challenge on HackerRank, implemented in **Python**.
 
-The challenge is designed to help developers improve their coding and problem-solving skills through 30 curated tasks. Each day introduces a new computer science concept, followed by a relevant coding problem.
+The challenge is designed to help developers improve their coding and problem-solving skills through 30 curated tasks.  Each day introduces a new computer science concept, followed by a relevant coding problem.
 
 ---
 
