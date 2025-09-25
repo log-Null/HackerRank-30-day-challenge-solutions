@@ -9,7 +9,7 @@ The challenge is designed to help developers improve their coding and problem-so
 ## 🔍 Overview
 
 - **Platform:** HackerRank
-- **Track:** HackerRank-30-day-challenge-solutions
+- **Track:** HackerRank-30-day-challenge-solutions.
 - **Language:** Python 3
 - **Goal:** Strengthen foundational coding and algorithmic thinking
 
