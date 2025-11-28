@@ -5,7 +5,7 @@ Write a program that prints:
 ```
 Hello, World.
 ```
-on the first line, followed by the user’s input on the second line.
+on the first line, followed by the user’s input on the second line..
 
 ## Input Format
 A single line of input containing a string.
